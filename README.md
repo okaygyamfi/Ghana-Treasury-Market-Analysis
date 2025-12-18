@@ -1,4 +1,4 @@
-# 🇬🇭 Ghana Treasury Market Analysis (2021–2025)
+# Ghana Treasury Market Analysis (2021–2025)
 
 ## Executive Dashboards
 | Market Overview | Trend & Seasonality Analysis |
